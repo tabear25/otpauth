@@ -1,3 +1,5 @@
+*This Repo is thanks to [dim13]()*
+
 # Google Authenticator migration decoder
 
 ![Logo](images/otpauth.png)
